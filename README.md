@@ -296,16 +296,20 @@ global-superstore-analysis/
 ## 📸 Screenshots
 
 ### Dashboard - Executive Overview
-![Executive Overview](https://via.placeholder.com/800x450.png?text=Executive+Overview+Dashboard)![Global Superstore - Market Expansion Analysis ROI simulator_page-0001](https://github.com/user-attachments/assets/9ba31960-b56c-4831-ae2d-b4f271f2b861)
+![Global Superstore - Market Expansion Analysis executive overview_page-0002](https://github.com/user-attachments/assets/54baf804-8ae6-42eb-93f8-cd33e5b0ca0b)
+![Global Superstore - Market Expansion Analysis executive overview_page-0001](https://github.com/user-attachments/assets/71eb33a1-573a-4a0a-bd06-af599c276d5e)
 
 *KPI cards, top 10 opportunities, and interactive charts*
 
 ### Dashboard - ROI Simulator
-![ROI Simulator](https://via.placeholder.com/800x450.png?text=ROI+Simulator)
+![Global Superstore - Market Expansion Analysis ROI simulator_page-0002](https://github.com/user-attachments/assets/cd11ac8d-f5bb-4c98-8ac1-eecdd1d311e8)
+![Global Superstore - Market Expansion Analysis ROI simulator_page-0001](https://github.com/user-attachments/assets/2cec241c-a7a6-4ed0-a5bf-8eef33d91e1e)
+
 *Scenario planning with adjustable budget and growth parameters*
 
 ### Dashboard - Diagnostic Deep Dive
-![Diagnostic Analysis](https://via.placeholder.com/800x450.png?text=Diagnostic+Deep+Dive)
+![Global Superstore - Market Expansion Analysis_page-0001](https://github.com/user-attachments/assets/debbf6af-ef7b-4041-8468-66013ce75892)
+
 *Multi-tab analysis across geography, segments, categories, and time*
 
 ---
